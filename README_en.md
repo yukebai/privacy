@@ -1,6 +1,7 @@
 #User agreement and privacy statement
 
 This agreement is a contract between you and the copyright owner of "General Calculator - Basic", and has the legal effect of a contract. Please read it carefully.
+
 one. Scope and content of "Privacy Policy"
 
 Thank you for choosing to use our products, please read our "Privacy Policy" carefully before using our products. Your use of our products will be deemed as your full acceptance of this "Privacy Policy" and commitment to comply with all applicable laws and regulations. If you do not agree to our "Privacy Policy", please do not use our products. If you have already started using our products, please stop using them immediately. Your use is deemed to be your agreement that this "Privacy Policy" applies to you.
