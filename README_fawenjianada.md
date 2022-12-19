@@ -1,23 +1,12 @@
-#用户协议与隐私声明
-
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
-
-一．《隐私政策》适用的范围和内容
-
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
-
-二．更新
-
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
-
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
-
-三．个人信息收集与使用
-
-我们并不收集您的个人信息。
-
-我们的产品将在正常运行期间向您要求获得以下授权：
-
-1.存储：为读取和管理数据进入您设备的存储空间
-
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+#User Agreement and Privacy Statement
+Cette entente est un contrat entre vous et le propriétaire du droit d'auteur du « Standard Calculatrice». Elle a l'effet juridique d'un contrat. Veuillez le lire attentivement.
+Le champ d'application et le contenu de la Politique de protection des renseignements personnels
+Merci d’avoir choisi d’utiliser nos produits. Veuillez lire attentivement notre Politique de protection des renseignements personnels avant d’utiliser nos produits. Votre utilisation de nos produits sera considérée comme votre pleine acceptation de cette Politique de protection des renseignements personnels et votre engagement à respecter toutes les lois et règlements applicables. Si vous n’êtes pas d’accord avec notre Politique de protection de la vie privée, s’il vous plaît ne pas utiliser nos produits. Si vous avez commencé à utiliser nos produits, arrêtez immédiatement d’utiliser ces produits. Votre utilisation sera considérée comme votre accord que cette Politique de protection de la vie privée s’applique à vous.
+2[UNK] Mise à jour
+Selon les changements apportés aux lois et aux politiques réglementaires, notre politique de protection de la vie privée s'améliore constamment. Avec l'expansion de nos produits et services, nous pourrons mettre à jour la Politique de protection des renseignements personnels à tout moment. Veuillez toujours vérifier la dernière Politique de protection des renseignements personnels. Si la mise à jour pertinente entraîne une réduction significative de vos droits en vertu de cette Politique de protection des renseignements personnels, nous vous notifierons dans la position prominente de l'interface de produits ou dans la nouvelle annonce de contenu de la nouvelle version du logiciel App Store. Votre utilisation continue de nos produits à l'avenir sera considérée comme votre pleine acceptation de ces mises à jour.
+Si vous n'êtes pas d'accord avec la Politique de protection de la vie privée révisée, arrêtez immédiatement d'utiliser nos produits.
+3[UNK] Collection et utilisation d’informations personnelles
+Nous ne recueillons pas vos renseignements personnels.
+Nos produits vous demanderont l'autorisation suivante pendant l'exploitation normale:
+1. stockage: Pour lire et gérer les données dans l'espace de stockage de votre appareil
+L'autorisation ci-dessus est nécessaire, sinon les fonctions pertinentes du produit ne peuvent pas fonctionner comme prévu.

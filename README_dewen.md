@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Nutzungsvereinbarung und Datenschutzerklärung
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Diese Vereinbarung stellt einen Vertrag zwischen Ihnen und dem Urheberrechtsinhaber von "Standard Rechner" dar und hat die Rechtswirkung eines Vertrages. Bitte lesen Sie sie sorgfältig durch.
 
-一．《隐私政策》适用的范围和内容
+einer. Geltungsbereich und Inhalt der „Datenschutzerklärung“
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Vielen Dank, dass Sie sich für die Verwendung unserer Produkte entschieden haben. Bitte lesen Sie unsere „Datenschutzrichtlinie“ sorgfältig durch, bevor Sie unsere Produkte verwenden. Ihre Nutzung unserer Produkte gilt als Ihre vollständige Zustimmung zu dieser „Datenschutzerklärung“ und Verpflichtung zur Einhaltung aller geltenden Gesetze und Vorschriften. Wenn Sie unserer „Datenschutzerklärung" nicht zustimmen, verwenden Sie unsere Produkte bitte nicht. Wenn Sie bereits begonnen haben, unsere Produkte zu verwenden, stellen Sie die Verwendung bitte sofort ein. Ihre Nutzung gilt als Ihr Einverständnis, dass diese „Datenschutzerklärung" gilt Sie.
 
-二．更新
+zwei. erneuern
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Unsere "Datenschutzrichtlinie" wird aufgrund von Änderungen der Gesetze und Regulierungsrichtlinien ständig verbessert. Wir können die Datenschutzrichtlinie von Zeit zu Zeit aktualisieren, wenn unsere Produkte und Dienstleistungen erweitert werden. Bitte überprüfen Sie regelmäßig die aktuellste Datenschutzrichtlinie. Wenn relevante Aktualisierungen zu einer erheblichen Einschränkung Ihrer Rechte gemäß dieser Datenschutzrichtlinie führen, werden wir Sie an prominenter Stelle auf der Produktoberfläche oder in der Ankündigung neuer Inhalte der neuen Version des App Store benachrichtigen. Ihre fortgesetzte Nutzung unserer Produkte in der Zukunft gilt als Ihre uneingeschränkte Zustimmung zu solchen Aktualisierungen.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Wenn Sie der geänderten Datenschutzrichtlinie nicht zustimmen, stellen Sie die Verwendung unserer Produkte bitte sofort ein.
 
-三．个人信息收集与使用
+drei. Erhebung und Verwendung personenbezogener Daten
 
-我们并不收集您的个人信息。
+Wir erfassen Ihre personenbezogenen Daten nicht.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Während des normalen Betriebs unserer Produkte werden Sie aufgefordert, die folgenden Genehmigungen einzuholen:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Speicher: Geben Sie den Speicherplatz Ihres Geräts zum Lesen und Verwalten von Daten ein
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Die oben genannten Autorisierungen sind alle erforderlich, da ansonsten die relevanten Funktionen des Produkts möglicherweise nicht wie vorgesehen funktionieren.

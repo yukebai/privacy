@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Användaravtal och sekretesspolicy
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Detta avtal är ett kontrakt mellan dig och upphovsrättsinnehavaren av "Enkelt Kalkylator", och har den juridiska effekten av ett kontrakt. Läs det noggrant.
 
-一．《隐私政策》适用的范围和内容
+ett. Omfattning och innehåll i "Sekretesspolicy"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Tack för att du väljer att använda våra produkter, läs vår "Sekretesspolicy" noggrant innan du använder våra produkter. Din användning av våra produkter kommer att betraktas som ditt fulla godkännande av denna "Sekretesspolicy" och åtagande att följa alla tillämpliga lagar och förordningar. Om du inte godkänner vår "Sekretesspolicy", vänligen använd inte våra produkter. Om du redan har börjat använda våra produkter, vänligen sluta använda dem omedelbart. Din användning anses vara ditt samtycke till att denna "Sekretesspolicy" gäller för du.
 
-二．更新
+två. förnya
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Enligt ändringar i lagar och reglerande policyer förbättras vår "Sekretesspolicy" ständigt. Vi kan uppdatera integritetspolicyn då och då när våra produkter och tjänster expanderar. Vänligen kontrollera den senaste integritetspolicyn ofta. Om relevanta uppdateringar leder till en betydande minskning av dina rättigheter enligt denna sekretesspolicy kommer vi att meddela dig på en framträdande plats i produktgränssnittet eller i det nya innehållsmeddelandet i den nya versionen av App Store. Din fortsatta användning av våra produkter i framtiden kommer att anses vara ditt fulla godkännande av sådana uppdateringar.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Om du inte godkänner den ändrade integritetspolicyn, vänligen sluta använda våra produkter omedelbart.
 
-三．个人信息收集与使用
+tre. Insamling och användning av personlig information
 
-我们并不收集您的个人信息。
+Vi samlar inte in dina personuppgifter.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Under normal drift av våra produkter kommer du att bli ombedd att skaffa följande tillstånd:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Lagring: Ange lagringsutrymmet på din enhet för att läsa och hantera data
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Ovanstående tillstånd är alla nödvändiga, annars kanske de relevanta funktionerna för produkten inte fungerar som de är avsedda.

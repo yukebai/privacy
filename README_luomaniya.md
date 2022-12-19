@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Acordul de utilizare și declarația de confidențialitate
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Acest acord este un contract între dvs. și proprietarul dreptului de autor al „Simplu Calculator” și are efect juridic de contract. Vă rugăm să îl citiți cu atenție.
 
-一．《隐私政策》适用的范围和内容
+unu. Domeniul și conținutul „Politicii de confidențialitate”
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Vă mulțumim că ați ales să utilizați produsele noastre, vă rugăm să citiți cu atenție „Politica de confidențialitate” înainte de a utiliza produsele noastre. Utilizarea produselor noastre va fi considerată ca acceptarea deplină a acestei „Politici de confidențialitate” și angajamentul de a respecta toate legile și reglementările aplicabile. Dacă nu sunteți de acord cu „Politica noastră de confidențialitate”, vă rugăm să nu folosiți produsele noastre. Dacă ați început deja să utilizați produsele noastre, vă rugăm să încetați imediat să le mai utilizați. Utilizarea dvs. este considerată a fi acordul dvs. că această „Politică de confidențialitate” se aplică. tu.
 
-二．更新
+Două. reînnoi
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Conform modificărilor aduse legilor și politicilor de reglementare, „Politica noastră de confidențialitate” se îmbunătățește constant. Putem actualiza Politica de confidențialitate din când în când pe măsură ce produsele și serviciile noastre se extind. Vă rugăm să verificați în mod frecvent cea mai recentă Politică de confidențialitate. Dacă actualizările relevante au ca rezultat o reducere semnificativă a drepturilor dumneavoastră conform acestei Politici de confidențialitate, vă vom anunța într-o poziție proeminentă pe interfața produsului sau în noul anunț de conținut al noii versiuni a App Store. Utilizarea în continuare a produselor noastre în viitor va fi considerată acceptarea deplină a acestor actualizări.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Dacă nu sunteți de acord cu Politica de confidențialitate modificată, vă rugăm să nu mai utilizați produsele noastre imediat.
 
-三．个人信息收集与使用
+Trei. Colectarea și utilizarea informațiilor personale
 
-我们并不收集您的个人信息。
+Nu colectăm informațiile dumneavoastră personale.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+În timpul funcționării normale a produselor noastre, vi se va cere să obțineți următoarele autorizații:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Stocare: Introduceți spațiul de stocare al dispozitivului dvs. pentru citirea și gestionarea datelor
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Toate autorizațiile de mai sus sunt necesare, în caz contrar, funcțiile relevante ale produsului pot să nu funcționeze așa cum a fost proiectat.

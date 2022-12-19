@@ -1,23 +1,12 @@
-#用户协议与隐私声明
-
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
-
-一．《隐私政策》适用的范围和内容
-
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
-
-二．更新
-
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
-
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
-
-三．个人信息收集与使用
-
-我们并不收集您的个人信息。
-
-我们的产品将在正常运行期间向您要求获得以下授权：
-
-1.存储：为读取和管理数据进入您设备的存储空间
-
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+#Acordo do Utilizador e Declaração de Privacidade
+Este acordo é um contrato entre você e o proprietário dos direitos autorais da "B á sica Calculadora" e tem o efeito legal do contrato. Por favor, leia atentamente.
+I. Âmbito e Conteúdo da Política de Privacidade
+Por favor, leia atentamente a nossa Política de Privacidade antes de utilizar os nossos produtos. Seu uso de nossos produtos será considerado como sua total aceitação desta Política de Privacidade e seu compromisso de cumprir com todas as leis e regulamentos aplicáveis. Se você não concorda com nossa Política de Privacidade, por favor, não use nossos produtos. Se você começou a usar nossos produtos, por favor, pare imediatamente de usá-los. Seu uso será considerado como seu acordo que esta Política de Privacidade se aplica a você.
+II. Actualização
+De acordo com mudanças nas leis e políticas regulatórias, nossa Política de Privacidade está constantemente melhorando. Com a expansão de nossos produtos e serviços, podemos atualizar a Política de Privacidade a qualquer momento. Por favor, verifique sempre a Política de Privacidade mais recente. Se a atualização relevante resultar em uma redução significativa de seus direitos sob esta Política de Privacidade, notificaremos você na posição de destaque da interface do produto ou no anúncio de novo conteúdo da nova versão do software App Store. Seu uso contínuo de nossos produtos no futuro será considerado como sua total aceitação de tais atualizações.
+Se você não concordar com a Política de Privacidade revisada, pare imediatamente de usar nossos produtos.
+III. Recolha e Utilização de Informações Pessoais
+Nós não coletamos suas informações pessoais.
+Nossos produtos pedirão a seguinte autorização durante a operação normal:
+1. Armazenamento: Para ler e gerenciar dados no espaço de armazenamento do seu dispositivo
+A autorização acima é necessária, caso contrário, as funções relevantes do produto não podem funcionar como projetadas.

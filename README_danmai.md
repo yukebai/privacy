@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Brugeraftale og fortrolighedserklæring
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Denne aftale er en kontrakt mellem dig og copyright-indehaveren af ​​"Almindelig Lommeregner", og har den juridiske virkning som en kontrakt. Læs den omhyggeligt.
 
-一．《隐私政策》适用的范围和内容
+en. Omfang og indhold af "Privatlivspolitik"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Tak, fordi du valgte at bruge vores produkter, læs venligst vores "Privatlivspolitik" omhyggeligt, før du bruger vores produkter. Din brug af vores produkter vil blive betragtet som din fulde accept af denne "Privatlivspolitik" og forpligtelse til at overholde alle gældende love og regler. Hvis du ikke accepterer vores "Privatlivspolitik", bedes du ikke bruge vores produkter. Hvis du allerede er begyndt at bruge vores produkter, bedes du stoppe med at bruge dem med det samme. Din brug anses for at være din accept af, at denne "Privatlivspolitik" gælder for du.
 
-二．更新
+to. forny
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+I henhold til ændringer i love og reguleringspolitikker bliver vores "privatlivspolitik" konstant forbedret. Vi kan opdatere fortrolighedspolitikken fra tid til anden, efterhånden som vores produkter og tjenester udvides. Tjek venligst den seneste privatlivspolitik ofte. Hvis relevante opdateringer resulterer i en væsentlig reduktion af dine rettigheder i henhold til denne privatlivspolitik, vil vi give dig besked på en fremtrædende plads på produktgrænsefladen eller i den nye indholdsmeddelelse i den nye version af App Store. Din fortsatte brug af vores produkter i fremtiden vil blive betragtet som din fulde accept af sådanne opdateringer.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Hvis du ikke accepterer den ændrede privatlivspolitik, bedes du straks stoppe med at bruge vores produkter.
 
-三．个人信息收集与使用
+tre. Indsamling og brug af personlige oplysninger
 
-我们并不收集您的个人信息。
+Vi indsamler ikke dine personlige oplysninger.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Under normal drift af vores produkter vil du blive bedt om at indhente følgende tilladelser:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Lager: Indtast lagerpladsen på din enhed til læsning og håndtering af data
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Ovenstående godkendelser er alle nødvendige, ellers fungerer produktets relevante funktioner muligvis ikke som designet.

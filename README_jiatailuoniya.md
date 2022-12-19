@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Acord d'usuari i declaració de privadesa
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Aquest acord és un contracte entre vostè i el propietari dels drets d'autor de "Bàsica Calculadora". Té l'efecte legal d'un contracte. Si us plau, llegiu-lo atentament.
 
-一．《隐私政策》适用的范围和内容
+un. Abast i contingut de la "Política de privadesa"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Gràcies per triar utilitzar els nostres productes, llegiu atentament la nostra "Política de privadesa" abans d'utilitzar els nostres productes. El vostre ús dels nostres productes es considerarà com la vostra plena acceptació d'aquesta "Política de privadesa" i el vostre compromís de complir amb totes les lleis i regulacions aplicables. Si no esteu d'acord amb la nostra "Política de privadesa", si us plau, no feu servir els nostres productes. Si ja heu començat a utilitzar els nostres productes, deixeu d'utilitzar-los immediatament. Es considera que el vostre ús és el vostre acord que aquesta "Política de privadesa" s'aplica a vostè.
 
-二．更新
+dos. renovar
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+D'acord amb els canvis de lleis i polítiques reguladores, la nostra "Política de privadesa" millora constantment. És possible que actualitzem la Política de privadesa de tant en tant a mesura que els nostres productes i serveis s'ampliïn. Si us plau, consulteu la política de privadesa més recent amb freqüència. Si les actualitzacions rellevants donen lloc a una reducció significativa dels vostres drets d'acord amb aquesta Política de privadesa, us ho notificarem en una posició destacada a la interfície del producte o en l'anunci de contingut nou de la nova versió de l'App Store. El vostre ús continuat dels nostres productes en el futur es considerarà la vostra plena acceptació d'aquestes actualitzacions.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Si no esteu d'acord amb la política de privadesa modificada, deixeu d'utilitzar els nostres productes immediatament.
 
-三．个人信息收集与使用
+tres. Recollida i ús d'informació personal
 
-我们并不收集您的个人信息。
+No recollim la teva informació personal.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Durant el funcionament normal dels nostres productes, se us demanarà que obtingueu les autoritzacions següents:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Emmagatzematge: introduïu l'espai d'emmagatzematge del vostre dispositiu per llegir i gestionar dades
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Totes les autoritzacions anteriors són necessàries, en cas contrari, les funcions rellevants del producte poden no funcionar com s'ha dissenyat.

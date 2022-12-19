@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Zmluva s používateľom a vyhlásenie o ochrane osobných údajov
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Táto zmluva je zmluvou medzi vami a vlastníkom autorských práv "Všeobecná Kalkulačka" a má právny účinok zmluvy. Pozorne si ju prečítajte.
 
-一．《隐私政策》适用的范围和内容
+jeden. Rozsah a obsah "Zásad ochrany osobných údajov"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Ďakujeme, že ste sa rozhodli používať naše produkty. Pred použitím našich produktov si pozorne prečítajte naše „Zásady ochrany osobných údajov“. Vaše používanie našich produktov sa bude považovať za váš úplný súhlas s týmito „Zásadami ochrany osobných údajov“ a za záväzok dodržiavať všetky príslušné zákony a nariadenia. Ak nesúhlasíte s našimi "Zásadami ochrany osobných údajov", nepoužívajte prosím naše produkty. Ak ste už začali používať naše produkty, okamžite ich prestaňte používať. Vaše používanie sa považuje za súhlas s tým, že tieto "Zásady ochrany osobných údajov" sa vzťahujú na vy.
 
-二．更新
+dva. obnoviť
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Podľa zmien v zákonoch a regulačných politikách sa naše „Zásady ochrany osobných údajov“ neustále zlepšujú. Zásady ochrany osobných údajov môžeme z času na čas aktualizovať, keď sa naše produkty a služby rozšíria. Často si prosím kontrolujte najnovšie Zásady ochrany osobných údajov. Ak relevantné aktualizácie povedú k výraznému obmedzeniu vašich práv podľa týchto Zásad ochrany osobných údajov, upozorníme vás na to na viditeľnom mieste v rozhraní produktu alebo v oznámení o novom obsahu novej verzie App Store. Vaše ďalšie používanie našich produktov v budúcnosti sa bude považovať za váš úplný súhlas s týmito aktualizáciami.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Ak nesúhlasíte so zmenenými zásadami ochrany osobných údajov, okamžite prestaňte používať naše produkty.
 
-三．个人信息收集与使用
+tri. Zhromažďovanie a používanie osobných údajov
 
-我们并不收集您的个人信息。
+Vaše osobné údaje nezhromažďujeme.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Počas bežnej prevádzky našich produktov budete požiadaní o získanie nasledujúcich oprávnení:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Úložisko: Zadajte úložný priestor vášho zariadenia na čítanie a správu údajov
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Všetky vyššie uvedené oprávnenia sú nevyhnutné, inak príslušné funkcie produktu nemusia fungovať tak, ako boli navrhnuté.

@@ -1,23 +1,12 @@
-#用户协议与隐私声明
-
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
-
-一．《隐私政策》适用的范围和内容
-
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
-
-二．更新
-
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
-
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
-
-三．个人信息收集与使用
-
-我们并不收集您的个人信息。
-
-我们的产品将在正常运行期间向您要求获得以下授权：
-
-1.存储：为读取和管理数据进入您设备的存储空间
-
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+#Käyttäjäsopimus ja tietosuojaseloste
+Tämä sopimus on sinun ja Perus Laskinin tekijänoikeuksien omistajan välinen sopimus, jolla on sopimuksen oikeusvaikutus. Lue se huolellisesti.
+1,Tietosuojakäytännön soveltamisala ja sisältö
+Ole hyvä ja lue tietosuojakäytäntömme huolellisesti ennen tuotteidemme käyttöä. Tuotteidemme käytön katsotaan hyväksyvän täysin tämän tietosuojakäytännön ja sitoutuneen noudattamaan kaikkia sovellettavia lakeja ja määräyksiä. Jos et hyväksy tietosuojakäytäntöämme, älä käytä tuotteitamme. Jos olet alkanut käyttää tuotteitamme, lopeta niiden käyttö välittömästi. Käyttösi katsotaan suostumukseksesi, että tämä tietosuojakäytäntö koskee sinua.
+2,Päivitys
+Lakien ja sääntelykäytäntöjen muutosten myötä tietosuojakäytäntömme paranee jatkuvasti. Kun tuotteitamme ja palveluitamme laajennetaan, voimme päivittää tietosuojakäytäntöä milloin tahansa. Tarkista aina viimeisin tietosuojakäytäntö. Jos kyseinen päivitys vähentää merkittävästi tämän tietosuojakäytännön mukaisia oikeuksiasi, ilmoitamme sinulle tuotteen käyttöliittymän näkyvässä asemassa tai App Store -ohjelmiston uuden version uudessa sisältöilmoituksessa. Tuotteidemme käytön jatkaminen tulevaisuudessa katsotaan sinun hyväksyvän kyseiset päivitykset täysimääräisesti.
+Jos et hyväksy tarkistettua tietosuojakäytäntöä, lopeta tuotteidemme käyttö välittömästi.
+3,Henkilötietojen kerääminen ja käyttö
+Emme kerää henkilökohtaisia tietojasi.
+Tuotteemme pyytävät sinulta seuraavan luvan normaalin käytön aikana:
+1. Tallennus: Voit lukea ja hallita tietoja laitteen tallennustilaan
+Edellä mainittu lupa on välttämätön, muuten tuotteen asiaankuuluvat toiminnot eivät välttämättä toimi suunnitellusti.

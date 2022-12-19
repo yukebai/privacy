@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Korisnički ugovor i izjava o privatnosti
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Ovaj ugovor je ugovor između Vas i vlasnika autorskih prava "Općenito Kalkulator", i ima pravni učinak ugovora. Molimo da ga pažljivo pročitate.
 
-一．《隐私政策》适用的范围和内容
+jedan. Opseg i sadržaj "Pravila privatnosti"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Zahvaljujemo što ste odabrali korištenje naših proizvoda, molimo pažljivo pročitajte našu "Politiku privatnosti" prije korištenja naših proizvoda. Vaše korištenje naših proizvoda smatrat će se vašim potpunim prihvaćanjem ovih "Pravila privatnosti" i obvezom poštivanja svih primjenjivih zakona i propisa. Ako se ne slažete s našim "Pravilima privatnosti", nemojte koristiti naše proizvode. Ako ste već počeli koristiti naše proizvode, odmah ih prestanite koristiti. Vaše korištenje smatra se vašim suglasjem da se ova "Pravila o privatnosti" primjenjuju na vas.
 
-二．更新
+dva. obnoviti
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+U skladu s promjenama u zakonima i regulatornim politikama, naša se "Politika privatnosti" neprestano poboljšava. S vremena na vrijeme možemo ažurirati Pravila o privatnosti kako se naši proizvodi i usluge šire. Često provjeravajte najnovija Pravila o privatnosti. Ako relevantna ažuriranja dovedu do značajnog smanjenja vaših prava prema ovim Pravilima privatnosti, obavijestit ćemo vas na istaknutom mjestu na sučelju proizvoda ili u najavi novog sadržaja nove verzije App Storea. Vaše daljnje korištenje naših proizvoda u budućnosti smatrat će se vašim potpunim prihvaćanjem takvih ažuriranja.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Ako se ne slažete s izmijenjenom Politikom privatnosti, molimo vas da odmah prestanete koristiti naše proizvode.
 
-三．个人信息收集与使用
+tri. Prikupljanje i korištenje osobnih podataka
 
-我们并不收集您的个人信息。
+Ne prikupljamo vaše osobne podatke.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Tijekom normalnog rada naših proizvoda, od vas će se tražiti da dobijete sljedeća ovlaštenja:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Pohrana: Unesite prostor za pohranu svog uređaja za čitanje i upravljanje podacima
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Sve gore navedene ovlasti su potrebne, inače relevantne funkcije proizvoda možda neće raditi kako je predviđeno.

@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Chính sách bảo mật và thỏa thuận người dùng
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Thỏa thuận này là hợp đồng giữa bạn và chủ sở hữu bản quyền của "Cơ bản máy tính" và có hiệu lực pháp lý của một hợp đồng. Vui lòng đọc kỹ.
 
-一．《隐私政策》适用的范围和内容
+một. Phạm vi và nội dung của "Chính sách bảo mật"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Cảm ơn bạn đã lựa chọn sử dụng sản phẩm của chúng tôi, vui lòng đọc kỹ “Chính sách bảo mật” trước khi sử dụng sản phẩm của chúng tôi. Việc bạn sử dụng các sản phẩm của chúng tôi sẽ được coi là bạn hoàn toàn chấp nhận "Chính sách quyền riêng tư" này và cam kết tuân thủ tất cả các luật và quy định hiện hành. Nếu bạn không đồng ý với "Chính sách quyền riêng tư" của chúng tôi, vui lòng không sử dụng sản phẩm của chúng tôi. Nếu bạn đã bắt đầu sử dụng sản phẩm của chúng tôi, vui lòng ngừng sử dụng chúng ngay lập tức. Việc sử dụng của bạn được coi là đồng ý với việc áp dụng "Chính sách quyền riêng tư" này bạn.
 
-二．更新
+hai. thay mới
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Theo những thay đổi về luật pháp và chính sách quản lý, "Chính sách bảo mật" của chúng tôi không ngừng được cải thiện. Thỉnh thoảng chúng tôi có thể cập nhật Chính sách quyền riêng tư khi các sản phẩm và dịch vụ của chúng tôi mở rộng. Vui lòng kiểm tra Chính sách quyền riêng tư mới nhất thường xuyên. Nếu các bản cập nhật có liên quan dẫn đến việc giảm đáng kể quyền của bạn theo Chính sách quyền riêng tư này, chúng tôi sẽ thông báo cho bạn ở vị trí nổi bật trên giao diện sản phẩm hoặc trong thông báo nội dung mới của phiên bản mới của App Store. Việc bạn tiếp tục sử dụng các sản phẩm của chúng tôi trong tương lai sẽ được coi là bạn hoàn toàn chấp nhận các bản cập nhật đó.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Nếu bạn không đồng ý với Chính sách quyền riêng tư đã thay đổi, vui lòng ngừng sử dụng sản phẩm của chúng tôi ngay lập tức.
 
-三．个人信息收集与使用
+số ba. Thu thập và sử dụng thông tin cá nhân
 
-我们并不收集您的个人信息。
+Chúng tôi không thu thập thông tin cá nhân của bạn.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Trong quá trình vận hành bình thường các sản phẩm của chúng tôi, bạn sẽ được yêu cầu xin các giấy phép sau:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Lưu trữ: Nhập dung lượng lưu trữ của thiết bị để đọc và quản lý dữ liệu
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Tất cả các ủy quyền trên đều cần thiết, nếu không các chức năng liên quan của sản phẩm có thể không hoạt động như thiết kế.

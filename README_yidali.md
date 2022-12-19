@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Accordo con l'utente e informativa sulla privacy
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Questo accordo è un contratto tra te e il titolare del copyright di "Basilare Calcolatrice", e ha gli effetti legali di un contratto, ti preghiamo di leggerlo attentamente.
 
-一．《隐私政策》适用的范围和内容
+uno. Ambito e contenuto della "Privacy Policy"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Grazie per aver scelto di utilizzare i nostri prodotti, si prega di leggere attentamente la nostra "Informativa sulla privacy" prima di utilizzare i nostri prodotti. L'utilizzo dei nostri prodotti sarà considerato come la tua piena accettazione di questa "Informativa sulla privacy" e l'impegno a rispettare tutte le leggi e i regolamenti applicabili. Se non sei d'accordo con la nostra "Informativa sulla privacy", ti preghiamo di non utilizzare i nostri prodotti. Se hai già iniziato a utilizzare i nostri prodotti, ti preghiamo di interromperne immediatamente l'utilizzo. Il tuo utilizzo è considerato come il tuo consenso all'applicazione di questa "Informativa sulla privacy" voi.
 
-二．更新
+Due. rinnovare
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+In base ai cambiamenti delle leggi e delle politiche normative, la nostra "Politica sulla privacy" è in costante miglioramento. Potremmo aggiornare l'Informativa sulla privacy di tanto in tanto man mano che i nostri prodotti e servizi si espandono. Si prega di controllare frequentemente l'Informativa sulla privacy più aggiornata. Se gli aggiornamenti pertinenti comportano una riduzione significativa dei tuoi diritti ai sensi della presente Informativa sulla privacy, ti informeremo in una posizione di rilievo sull'interfaccia del prodotto o nell'annuncio del nuovo contenuto della nuova versione dell'App Store. L'uso continuato dei nostri prodotti in futuro sarà considerato come piena accettazione di tali aggiornamenti.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Se non si accetta l'Informativa sulla privacy modificata, interrompere immediatamente l'utilizzo dei nostri prodotti.
 
-三．个人信息收集与使用
+tre. Raccolta e utilizzo delle informazioni personali
 
-我们并不收集您的个人信息。
+Non raccogliamo le tue informazioni personali.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Durante il normale funzionamento dei nostri prodotti, ti verrà chiesto di ottenere le seguenti autorizzazioni:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Archiviazione: inserire lo spazio di archiviazione del dispositivo per la lettura e la gestione dei dati
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Le suddette autorizzazioni sono tutte necessarie, altrimenti le relative funzioni del prodotto potrebbero non funzionare come previsto.

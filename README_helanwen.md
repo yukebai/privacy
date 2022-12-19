@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Gebruikersovereenkomst en privacyverklaring
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Deze overeenkomst is een contract tussen u en de auteursrechthebbende van "Standaard Rekenmachine", en heeft de rechtsgevolgen van een contract. Gelieve deze aandachtig te lezen.
 
-一．《隐私政策》适用的范围和内容
+een. Reikwijdte en inhoud van "Privacybeleid"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Bedankt dat je ervoor hebt gekozen om onze producten te gebruiken, lees ons "Privacybeleid" zorgvuldig door voordat je onze producten gebruikt. Uw gebruik van onze producten wordt beschouwd als uw volledige aanvaarding van dit "Privacybeleid" en uw toezegging om te voldoen aan alle toepasselijke wet- en regelgeving. Als u niet akkoord gaat met ons "Privacybeleid", gebruik onze producten dan niet. Als u al bent begonnen met het gebruik van onze producten, stop dan onmiddellijk met het gebruik ervan. Uw gebruik wordt beschouwd als uw akkoord dat dit "Privacybeleid" van toepassing is op Jij.
 
-二．更新
+twee. vernieuwen
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+In overeenstemming met veranderingen in wetten en regelgevend beleid, wordt ons "Privacybeleid" voortdurend verbeterd. We kunnen het privacybeleid van tijd tot tijd bijwerken naarmate onze producten en diensten uitbreiden. Controleer regelmatig het meest recente privacybeleid. Als relevante updates resulteren in een aanzienlijke vermindering van uw rechten onder dit privacybeleid, zullen we u op een prominente plaats op de productinterface of in de nieuwe inhoudsaankondiging van de nieuwe versie van de App Store op de hoogte stellen. Uw voortgezet gebruik van onze producten in de toekomst wordt beschouwd als uw volledige acceptatie van dergelijke updates.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Als u niet akkoord gaat met het gewijzigde privacybeleid, stop dan onmiddellijk met het gebruik van onze producten.
 
-三．个人信息收集与使用
+drie. Verzameling en gebruik van persoonlijke informatie
 
-我们并不收集您的个人信息。
+Wij verzamelen uw persoonlijke gegevens niet.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Tijdens de normale werking van onze producten wordt u gevraagd om de volgende autorisaties te verkrijgen:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Opslag: Voer de opslagruimte van uw apparaat in voor het lezen en beheren van gegevens
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+De bovenstaande autorisaties zijn allemaal nodig, anders werken de relevante functies van het product mogelijk niet zoals ontworpen.

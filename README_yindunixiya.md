@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Perjanjian pengguna dan pernyataan privasi
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Perjanjian ini merupakan kontrak antara Anda dengan pemilik hak cipta "Umum Kalkulator", dan memiliki kekuatan hukum kontrak. Mohon dibaca dengan seksama.
 
-一．《隐私政策》适用的范围和内容
+satu. Cakupan dan isi "Kebijakan Privasi"
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Terima kasih telah memilih untuk menggunakan produk kami, harap baca "Kebijakan Privasi" kami dengan cermat sebelum menggunakan produk kami. Penggunaan Anda atas produk kami akan dianggap sebagai penerimaan penuh Anda atas "Kebijakan Privasi" ini dan komitmen Anda untuk mematuhi semua hukum dan peraturan yang berlaku. Jika Anda tidak menyetujui "Kebijakan Privasi" kami, harap jangan gunakan produk kami. Jika Anda sudah mulai menggunakan produk kami, harap segera hentikan penggunaannya. Penggunaan Anda dianggap sebagai persetujuan Anda bahwa "Kebijakan Privasi" ini berlaku untuk Anda.
 
-二．更新
+dua. memperbarui
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Menurut perubahan undang-undang dan kebijakan peraturan, "Kebijakan Privasi" kami terus meningkat. Kami dapat memperbarui Kebijakan Privasi dari waktu ke waktu seiring berkembangnya produk dan layanan kami. Silakan sering-sering memeriksa Kebijakan Privasi terbaru. Jika pembaruan yang relevan mengakibatkan pengurangan yang signifikan pada hak Anda berdasarkan Kebijakan Privasi ini, kami akan memberi tahu Anda di posisi yang menonjol di antarmuka produk atau di pengumuman konten baru dari versi baru App Store. Jika Anda terus menggunakan produk kami di masa mendatang, Anda akan dianggap menerima sepenuhnya pembaruan tersebut.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Jika Anda tidak setuju dengan Kebijakan Privasi yang diubah, harap segera berhenti menggunakan produk kami.
 
-三．个人信息收集与使用
+tiga. Pengumpulan dan penggunaan informasi pribadi
 
-我们并不收集您的个人信息。
+Kami tidak mengumpulkan informasi pribadi Anda.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Selama pengoperasian normal produk kami, Anda akan diminta untuk mendapatkan otorisasi berikut:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Penyimpanan: Masukkan ruang penyimpanan perangkat Anda untuk membaca dan mengelola data
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Semua otorisasi di atas diperlukan, jika tidak, fungsi produk yang relevan mungkin tidak berfungsi seperti yang dirancang.

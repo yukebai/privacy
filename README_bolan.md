@@ -1,23 +1,23 @@
-#用户协议与隐私声明
+#Umowa użytkownika i Oświadczenie o ochronie prywatności
 
-本协议为您与「普通计算器」版权所有者之间所订立的契约，具有合同的法律效力，请您仔细阅读。
+Niniejsza umowa jest umową pomiędzy Tobą a właścicielem praw autorskich do "Ogólnego Kalkulatora" i ma skutek prawny jak umowa. Przeczytaj ją uważnie.
 
-一．《隐私政策》适用的范围和内容
+jeden. Zakres i treść „Polityki prywatności”
 
-感谢您选择使用我们的产品，在使用我们的产品前，请仔细阅读我们的《隐私政策》。您对我们的产品的使用，将被视为您完全接受本《隐私政策》，并承诺遵守所有适用的法律和法规。如果您不同意我们的《隐私政策》，请勿使用我们的产品，如果您已经开始使用我们的产品，请您立即终止使用，您的使用行为，即视为您同意本《隐私政策》适用于您。
+Dziękujemy za wybranie naszych produktów, prosimy o uważne zapoznanie się z naszą „Polityką prywatności” przed skorzystaniem z naszych produktów. Korzystanie z naszych produktów będzie uważane za pełną akceptację niniejszej „Polityki prywatności” i zobowiązanie do przestrzegania wszystkich obowiązujących praw i przepisów. Jeśli nie zgadzasz się z naszą „Polityką prywatności”, nie korzystaj z naszych produktów. Jeśli już zacząłeś korzystać z naszych produktów, natychmiast przestań ich używać. Twoje użycie jest uważane za zgodę, do której odnosi się niniejsza „Polityka prywatności”. Ty.
 
-二．更新
+dwa. odnowić
 
-根据法律和监管政策的变化，我们的《隐私政策》正在不断完善。随著我们产品和服务的扩展，我们可能会随时更新《隐私政策》。请经常查看最新的“隐私政策”。如果相关更新导致您在本《隐私政策》下的权利大幅减少，我们会在产品界面显著位置或App Store新版本软件的新内容公告中通知您。您在未来继续使用我们的产品将被视为您完全接受此类更新。
+Zgodnie ze zmianami prawa i polityk regulacyjnych, nasza „Polityka prywatności” jest stale ulepszana. Od czasu do czasu możemy aktualizować Politykę prywatności w miarę rozwoju naszych produktów i usług. Prosimy o częste sprawdzanie aktualnej Polityki prywatności. Jeśli odpowiednie aktualizacje spowodują znaczne ograniczenie Twoich praw wynikających z niniejszej Polityki prywatności, poinformujemy Cię o tym w widocznym miejscu w interfejsie produktu lub w ogłoszeniu o nowej zawartości nowej wersji App Store. Dalsze korzystanie z naszych produktów w przyszłości będzie równoznaczne z pełną akceptacją takich aktualizacji.
 
-如果您不同意更改后的《隐私政策》，请您立即终止使用我们的产品。
+Jeśli nie zgadzasz się ze zmienioną Polityką Prywatności, prosimy o natychmiastowe zaprzestanie korzystania z naszych produktów.
 
-三．个人信息收集与使用
+trzy. Gromadzenie i wykorzystywanie danych osobowych
 
-我们并不收集您的个人信息。
+Nie zbieramy twoich danych osobowych.
 
-我们的产品将在正常运行期间向您要求获得以下授权：
+Podczas normalnej eksploatacji naszych produktów zostaniesz poproszony o uzyskanie następujących uprawnień:
 
-1.存储：为读取和管理数据进入您设备的存储空间
+1. Przechowywanie: Wprowadź przestrzeń dyskową urządzenia do odczytu danych i zarządzania nimi
 
-上述授权均为必要，否则产品的相关功能可能无法按设计运行。
+Wszystkie powyższe uprawnienia są niezbędne, w przeciwnym razie odpowiednie funkcje produktu mogą nie działać zgodnie z przeznaczeniem.
